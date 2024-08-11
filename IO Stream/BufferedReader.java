@@ -21,5 +21,6 @@ public class BufferedReader {
          System.out.print((char)bis.read());
          System.out.print((char)bis.read());
          System.out.print((char)bis.read());
+         bis.close();
     }
 }
