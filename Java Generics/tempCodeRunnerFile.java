@@ -1,4 +1,2 @@
-
-public class GenericsDemo {
-    public static void main(String[] args)
-    {
+  show(new String[]{"hi","go","bye"});
+        //   show(new Integer[]{10,20,30,40}); 
