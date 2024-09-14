@@ -29,7 +29,7 @@ public class DeamonThread {
 
         try {
             // Main thread sleeps for 1 millisecond
-            Thread.sleep(1);
+            Thread.sleep(10);
         } catch (Exception e) {
             // Catch any exceptions that occur during sleep
             System.out.println(e);
